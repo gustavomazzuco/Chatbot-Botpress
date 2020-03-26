@@ -1,13 +1,11 @@
-## Run bot
+-------Comandos para criar projeto--------
 
-Run `npm start` to start your bot.
+1 - npm install -g botpress
 
-By default bot runs locally with web interface available at http://localhost:3000
+2 - botpress init
 
-## Deploy
+-------Comandos para iniciar projeto--------
 
-Check [Heroku](https://botpress.io/docs/deploy/heroku/) and [AWS](https://botpress.io/docs/deploy/aws/) deploy tutorials to get started
+3 - npm install --save
 
-## Development
-
-To learn more on how to work with [Botpress](https://botpress.io/) you can read [here](https://botpress.io/docs/getting_started/).
+4 - npm start
